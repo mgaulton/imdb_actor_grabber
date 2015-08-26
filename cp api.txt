@@ -1,0 +1,2 @@
+/api/<api key>/movie.add/?identifier=tt2172985
+http://www.myapifilms.com/
